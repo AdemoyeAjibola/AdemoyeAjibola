@@ -1,7 +1,9 @@
 # Hi there, I'm Ademoye Ajibola  
 
 🚀 Aspiring DevOps Engineer | IT Support Specialist | Python Enthusiast 
+
 🔹 Passionate about Linux, automation, and cloud computing  
+
 📂 Learning and documenting my DevOps journey one project at a time
 
 ### 🛠️ Technologies & Tools:
