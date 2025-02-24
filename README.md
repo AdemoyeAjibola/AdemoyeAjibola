@@ -12,7 +12,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
 
 ### 📈 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdemoyeAjibola&show_icons=true&theme=dark)  
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdemoyeAjibola&show_icons=true&theme=dark)  
 
 ## 📂 Featured Projects
 🚀 [**DevOps Portfolio**](https://github.com/AdemoyeAjibola/devops-portfolio) - My personal DevOps projects and learning journey.  
